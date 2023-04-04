@@ -1,0 +1,7 @@
+/trading
+    ├──main.py
+        ├──data_processor.py (wrapper)
+             ├──alpaca.py
+                └──_base.py
+        ├──agent_ppo.py
+        └──
